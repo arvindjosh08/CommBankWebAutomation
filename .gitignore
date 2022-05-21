@@ -1,0 +1,22 @@
+###Other###
+*/target/*
+
+### Eclipse ###
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swap
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Maven
+target/
