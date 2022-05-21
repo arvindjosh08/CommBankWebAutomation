@@ -20,3 +20,10 @@ local.properties
 
 # Maven
 target/
+
+# IOS
+*.DS_Store
+
+
+# Eclipse Core
+.project
