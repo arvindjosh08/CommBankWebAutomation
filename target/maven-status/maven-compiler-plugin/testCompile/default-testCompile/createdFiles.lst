@@ -1,0 +1,9 @@
+starter/stepdefinitions/UserCreation.class
+pages/HomePage.class
+pages/ScoreboardPage.class
+starter/TestSuite.class
+pages/ChallengeHomePage.class
+pages/ScoreboardMainPage.class
+starter/stepdefinitions/Challenges.class
+pages/ChallengePage.class
+pages/CovidHomePage.class
