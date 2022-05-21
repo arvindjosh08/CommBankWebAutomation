@@ -17,7 +17,7 @@ We have used Serenity BDD Cucumber framework for web automation framework. Seren
 In order to utilise this project you need to have the following installed locally:
 
 * Maven
-* Chrome browser(UI tests use Chrome by default, can be changed in config)
+* Chrome browser versoin 101(UI tests use Chrome by default, can be changed in config)
 * Java 1.8
 
 
